@@ -1,0 +1,75 @@
+body{background-color: #e8e8e8;}
+.gambarSatu{
+  display: block;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    width: 15%;
+}
+.kotakSatu{
+  background-color: #840d0d;
+  padding: 17rem 0;
+  margin-left: 15%;
+  margin-right: 16%;
+}
+.kotakDua{
+  align-items: center;
+  position: fixed;
+  background-color:#631616;
+  padding: 13rem 0;
+  margin-left: 18%;
+  margin-right: 26%;
+  margin-top: -15%;
+  margin-bottom: -40%;
+}
+.gambarDua{
+  width: 20%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-top: -34%;
+}
+h2{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h3{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h4{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h6{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-bottom: -35%;
+}
+.button2{
+  color: white;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.button2 {background-color: #840d0d;}
+
+.button2:hover {background-color: #c13232;}

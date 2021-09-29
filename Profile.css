@@ -1,0 +1,107 @@
+body{background-color: rgba(245, 244, 244, 0.973);}
+
+.gambarSatu{
+  display: block;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    width: 15%;
+}
+.buttonA{
+  color: white;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.buttonA {background-color: black;}
+
+
+.buttonA:hover {background-color: #c13232;}
+.g1  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 15%;
+}
+.kotakSatu{
+  background-color: white;
+  padding: 7rem 0;
+  margin-left: 15%;
+  margin-right: 16%;
+  margin-bottom: 5%;
+
+}
+.kotakNama{
+  align-items: center;
+  padding: 7rem 0;
+  margin-left: 15%;
+  margin-right:15%;
+  margin-top: 1%;
+  margin-bottom: -12%;
+}
+
+.kotakDua{
+  align-items: center;
+  padding: 8rem 0;
+  margin-left: 42%;
+  margin-right:15%;
+  margin-top: -26%;
+  margin-bottom: -10%;
+}
+.gambarDua{
+  display: block;
+    margin-top: -6%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+  width: 15%;
+}
+.buttonB{
+  color: white;
+    position: absolute;
+    margin-top: -4%;
+    margin-left: 60%;
+    font-size: 18px;
+}
+.buttonB {background-color: #840d0d;}
+
+.buttonB:hover {background-color: #c13232;}
+.g1  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 15%;
+}
+form{
+  margin-left: 42%;
+  margin-top: 2rem;
+}
+
+h1{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: -12%;
+  margin-bottom: -80%;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+label{
+
+}
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 26%;
+    margin-top: -100%;
+    margin-bottom: 2rem;
+}
+
+
