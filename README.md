@@ -1,5 +1,5 @@
 # Canshop
-Canshop is a website-based online store that provides goods for women's needs such as hijab and skin care using HTML, CSS, PHP.
+Canshop is a website-based online store that provides goods for women's needs such as hijab and skin care using HTML, CSS, PHP, and SQL.
 
 Terdapat beberapa page yang di buat dari awal seperti pada tampilan profile, pilih metode pembayaran, berhasil, sign up, dan sign in. Selain itu, terdapat beberapa page yang menggunakan template seperti pada tampilan home, belanja, katalog, about, contact, dan beberapa fitur tambahan seperti filter. 
 
